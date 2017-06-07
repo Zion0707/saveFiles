@@ -2,7 +2,7 @@
 NodeJs 提交图片，并把图片保存到指定的文件夹中
 
 ### 项目说明
-NodeJs -> formidabel 测试
+NodeJs formidabel 模块使用 
 
 ###  步骤：
 	1、首页静态页，结果静态页，file表单
